@@ -39,5 +39,11 @@ I create things.
 ![mongodb](https://img.shields.io/badge/%20-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
 ![postgresql](https://img.shields.io/badge/%20-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![jira](https://img.shields.io/badge/%20-Jira-0052cc?style=flat-square&logo=jira&logoColor=white)
+![postman](https://img.shields.io/badge/%20-Postman-ff6c37?style=flat-square&logo=postman&logoColor=white)
+![raspberry pi](https://img.shields.io/badge/%20-Raspberry%20Pi-c51a4a?style=flat-square&logo=raspberry%20pi&logoColor=white)
+![kubernetes](https://img.shields.io/badge/%20-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![realm](https://img.shields.io/badge/%20-Realm-39477f?style=flat-square&logo=realm&logoColor=white)
+![mocha](https://img.shields.io/badge/%20-Mocha-8d6748?style=flat-square&logo=mocha&logoColor=white)
 
+[![Hamza Jadid StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8943195&layout=compact)](https://stackoverflow.com/users/8943195/hamza-jadid)
 ![project euler](https://projecteuler.net/profile/HamzaJadid.png)
