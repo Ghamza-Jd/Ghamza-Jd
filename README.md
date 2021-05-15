@@ -7,15 +7,9 @@
   "fullname": "Hamza Jadid",
   "current_position": "Junior Developer",
   "organization": "areeba",
-  "emails": [
-    "hamzah.jadeed@gmail.com",
-    "hamza.jadid@outlook.com",
-    "hamza.jadid@icloud.com"
-  ]
+  "email": "hamzah.jadeed@gmail.com"
 }
 ```
-
-I create things.
 
 ## Skills
 
@@ -41,7 +35,6 @@ I create things.
 ![jira](https://img.shields.io/badge/%20-Jira-0052cc?style=flat-square&logo=jira&logoColor=white)
 ![postman](https://img.shields.io/badge/%20-Postman-ff6c37?style=flat-square&logo=postman&logoColor=white)
 ![raspberry pi](https://img.shields.io/badge/%20-Raspberry%20Pi-c51a4a?style=flat-square&logo=raspberry%20pi&logoColor=white)
-![kubernetes](https://img.shields.io/badge/%20-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
 ![realm](https://img.shields.io/badge/%20-Realm-39477f?style=flat-square&logo=realm&logoColor=white)
 ![mocha](https://img.shields.io/badge/%20-Mocha-8d6748?style=flat-square&logo=mocha&logoColor=white)
 
