@@ -7,7 +7,8 @@
   "fullname": "Hamza Jadid",
   "current_position": "Junior Developer",
   "organization": "areeba",
-  "email": "hamzah.jadeed@gmail.com"
+  "email": "hamzah.jadeed@gmail.com",
+  "__comment": "what you see in my contribution graph is only on the public repos :p"
 }
 ```
 
