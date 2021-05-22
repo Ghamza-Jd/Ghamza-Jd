@@ -8,7 +8,7 @@
   "current_position": "Junior Developer",
   "organization": "areeba",
   "email": "hamzah.jadeed@gmail.com",
-  "__comment": "what you see in my contribution graph is only on the public repos :p"
+  "__comment": "what you see in my contribution graph reflects only the public repos"
 }
 ```
 
